@@ -1,4 +1,4 @@
-# Kotlin Practice Menu
+# Kotlin Practice
 
 ## Description
 This project is an interactive console application that contains 35 practical tasks completed as part of training and internship. The application allows users to select and execute any task by its number.
