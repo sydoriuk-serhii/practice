@@ -9,4 +9,4 @@ This project is an interactive console application that contains 35 practical ta
 - **Interaction:** Console input/output
 
 ## **Author**
-This project was created as part of an internship by **Serhii Sydoriuk** for Onyx-Systems.
+This project was created as part of an internship by **Serhii Sydoriuk** for Onix-Systems.
